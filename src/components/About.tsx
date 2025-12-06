@@ -69,7 +69,7 @@ const About = () => {
                 </motion.button>
                 
                 <motion.a
-                  href="https://www.linkedin.com/in/darshil/"
+                  href="https://www.linkedin.com/in/darsil-pansuriya-756453194/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-outline flex-1 flex items-center justify-center gap-2"
